@@ -15,15 +15,15 @@ Output:
         
 ## 2. ls — List Directory Contents
 
-Lists files and directories.
+Lists files and directories. (All files or folders you have will be listed)
 
 ```bash
 ls
 ls -l
 ls -a
 ```
-Output:     (All files or folders you have will be listed)
-      Downloads Documents Pictures Practice-file 
+Output:     
+             Downloads Documents Pictures Practice-file 
       
 - `ls`: lists directory contents.
 - `ls -l`: displays detailed information.
