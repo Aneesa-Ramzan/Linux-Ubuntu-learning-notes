@@ -36,8 +36,8 @@ Directory in Linux as Folder in Windows.
 
 ```bash
 cd Documents (Enter directory/folder name)
-cd ..         (Go to the directory
-cd ~
+cd .. 
+cd ~          
 ```
 
 - `cd Documents`: enters Documents.
@@ -62,7 +62,7 @@ touch notes.txt
 ```
 Output:
         Creates Empty file but if the same file already exists it will update its Timestamp.
-       * Timestamp --> Last time you visited or updated your file.
+        Timestamp --> Last time you visited or updated your file.
        
 ## 6. cp — Copy Files
 
